@@ -1,21 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/JH3nieSp)
-# OSN Monsoon 2023 mini project 3
-## xv6 revisited and concurrency
-
-*when will the pain and suffering end?* 
-
-Finally done :)
-
-## Some pointers/instructions
-- main xv6 source code is present inside `initial_xv6/src` directory.
-- Feel free to update this directory and add your code from the previous assignment here.
-- By now, I believe you are already well aware on how you can check your xv6 implementations. 
-- Just to reiterate, make use of the `procdump` function and the `usertests` and `schedulertest` command.
-- work inside the `concurrency/` directory for the Concurrency questions (`Cafe Sim` and `Ice Cream Parlor Sim`).
-
-- Answer all the theoretical/analysis-based questions (for PBS scheduler and the concurrency questions) in a single `md `file.
-- You may delete these instructions and add your report before submitting. 
-
 # Report - Concurrency
 
 ## Cafe Sim
